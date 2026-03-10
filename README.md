@@ -1,2 +1,2 @@
 # ConectaPET
-Ong voltada para animais em situação de rua,dk projetor integrador da Univesp
+Ong voltada para animais em situação de rua,do projetor integrador da Univesp
